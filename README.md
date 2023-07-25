@@ -4,7 +4,7 @@ Documentation of Home labs/projects
 
 | Project | Link |
 | ------- | ---- |
-| Active Directory | | [Hello](https://github.com/twenty-twoAI/twenty-twoAI.github.io/blob/main/ad_lab/lab.md) |
+| Active Directory | | [Hello](www.google.com) |
 | Wi-Fi Pineapple Surveillance w/ WPA Cracking | | Link |
 | | | |
 | | | |
