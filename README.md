@@ -11,6 +11,6 @@ Documentation of Home labs/projects
 
 |Release Date|Link|
 |------------| ---|
-| 07/12/2023 | [BTL1 Blog](./BTL1/Review.md) |
+| Wi-Fi Pineapple | [BTL1 Blog](./BTL1/Review.md) |
 
 [Test](www.google.com)
