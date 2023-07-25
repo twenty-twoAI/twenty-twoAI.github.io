@@ -2,9 +2,9 @@
 
 Documentation of Home labs/projects
 
-|Project |Link|
+|Project|Link|
 |---|---|
-|Active Directory||[Hello](..sentinel_lab/sentinel.md)|
+|Active Directory|[Hello](..sentinel_lab/sentinel.md)|
 
 |Release Date|Link|
 |------------| ---|
